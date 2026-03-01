@@ -57,6 +57,13 @@
 </p>
 </p>
 
+## 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyasreepyla/bhavyasreepyla/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavyasreepyla/bhavyasreepyla/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhavyasreepyla/bhavyasreepyla/output/pacman-contribution-graph.svg" />
+</picture>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhavyasreepyla&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
