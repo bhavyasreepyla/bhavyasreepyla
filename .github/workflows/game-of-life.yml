@@ -1,0 +1,24 @@
+name: Generate Game of Life
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Game of Life
+        uses: ethomson/issue-to-game-of-life@v1
+        with:
+          github_user_name: YOUR_GITHUB_USERNAME
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add .
+          git commit -m "Update Game of Life" || exit 0
+          git push
