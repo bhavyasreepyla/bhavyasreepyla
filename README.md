@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 🎓 **MS in Artificial Intelligence** @ Northeastern University (Khoury College)  
-🌍 Originally from **Tanzania** | Studied at **Mahindra University, India** | Interned at **NUS, Singapore**   
+🌍 Originally from **Tanzania** | Studied at **Mahindra University, India** | Interned at **NUS, Singapore**  | Interned at **Rubus Digital** 
 💡 Passionate about building AI systems that genuinely work for humans  
 
 - 🔭 Currently working on **VLMs for cellular imaging analysis**
