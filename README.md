@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Bhavya%20Sree%20Pyla&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
 <!-- Header (top of README) -->
 <img width="100%" src="./header.svg" />
@@ -74,7 +73,6 @@ bhavya@northeastern:~$ neofetch
   <img src="https://komarev.com/ghpvc/?username=bhavyasreepyla&color=000000&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
 
 <!-- Footer (bottom of README) -->
 <img width="100%" src="./footer.svg" />
