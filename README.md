@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Bhavya%20Sree%20Pyla&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Bhavya%20Sree%20Pyla&fontSize=40&fontAlignY=50&animation=twinkling&fontColor=ffffff" />
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -69,4 +71,6 @@ bhavya@northeastern:~$ neofetch
   <img src="https://komarev.com/ghpvc/?username=bhavyasreepyla&color=000000&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=footer" />
+
