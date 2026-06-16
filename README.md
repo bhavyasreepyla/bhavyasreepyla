@@ -2,11 +2,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&random=false&width=600&height=55&lines=Hi+%F0%9F%91%8B+I'm+Bhavya;MS+in+AI+%40+Northeastern+University;Vision-Language+Models+%7C+Deep+Learning;Building+AI+That+Works+For+Humans" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bhavya;MS+in+AI+%40+Northeastern+University;Vision-Language+Models+%7C+Deep+Learning;Building+AI+That+Works+For+Humans" alt="Typing SVG" />
   </a>
 </p>
-
-> *My therapist told me to stop personifying my neural networks. She's right. I'm sorry, model. I'll lower your learning rate next time, I promise.*
 
 ## 🧠 About Me
 🎓 **MS in Artificial Intelligence** @ Northeastern University (Khoury College)  
@@ -19,16 +17,13 @@
 ## 💻 ~/whoami
 ```bash
 bhavya@northeastern:~$ neofetch
-        .--.            OS:       Sleep-deprived Grad Student v3.0
-       |o_o |           Host:     Khoury College of CS
-       |:_/ |           Kernel:   PyTorch 2.x (cuda enabled, sometimes)
-      //   \ \          Uptime:   too many hours, send coffee
-     (|     | )         Packages: 1 environment, 47 broken
-    /'\_   _/`\         Shell:    zsh + aliases I forgot I made
-    \___)=(___/         CPU:      100% (training 3 models at once)
-                        GPU:      borrowed. always borrowed.
-                        Memory:   leaking, just like my code
-                        Status:   "it works on my machine" ¯\_(ツ)_/¯
+        .--.            OS:      Linux / macOS
+       |o_o |           Host:    Khoury College of CS, Northeastern
+       |:_/ |           Role:    MS in AI · Research Assistant
+      //   \ \          Focus:   Vision-Language Models, Deep Learning
+     (|     | )         Lang:    Python (+ whatever the project needs)
+    /'\_   _/`\         Editor:  VS Code
+    \___)=(___/         Status:  "it works on my machine"
 ```
 
 ## 🛠️ Tech Stack
