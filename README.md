@@ -1,10 +1,11 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Bhavya%20Sree%20Pyla&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Bhavya%20Sree%20Pyla&fontSize=40&fontAlignY=50&animation=twinkling&fontColor=ffffff" />
-
+<!-- Header (top of README) -->
+<img width="100%" src="./header.svg" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bhavya;MS+in+AI+%40+Northeastern+University;Vision-Language+Models+%7C+Deep+Learning;Building+AI+That+Works+For+Humans" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=002366&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bhavya;MS+in+AI+%40+Northeastern+University;Vision-Language+Models+%7C+Deep+Learning;Building+AI+That+Works+For+Humans" alt="Typing SVG" />
   </a>
 </p>
 
@@ -49,10 +50,12 @@ bhavya@northeastern:~$ neofetch
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavyasreepyla&theme=github-compact&hide_border=true&area=true" />
 </p>
 
-## 🏙️ Contribution Skyline
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" />
-</p>
+## 👾 Pac-Man Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyasreepyla/bhavyasreepyla/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavyasreepyla/bhavyasreepyla/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhavyasreepyla/bhavyasreepyla/output/pacman-contribution-graph.svg" />
+</picture>
 
 ## 🤝 Connect With Me
 <p align="center">
@@ -71,6 +74,7 @@ bhavya@northeastern:~$ neofetch
   <img src="https://komarev.com/ghpvc/?username=bhavyasreepyla&color=000000&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=footer" />
-
+<!-- Footer (bottom of README) -->
+<img width="100%" src="./footer.svg" />
