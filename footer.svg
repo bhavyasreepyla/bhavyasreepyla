@@ -1,0 +1,18 @@
+<svg viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" width="1200" height="120">
+  <!-- solid black block -->
+  <rect width="1200" height="120" fill="#000000"/>
+
+  <!-- back wave (slower, fainter) — fills upward from top edge -->
+  <path fill="#ffffff" fill-opacity="0.12"
+        d="M-400 55 Q -300 33 -200 55 T 0 55 T 200 55 T 400 55 T 600 55 T 800 55 T 1000 55 T 1200 55 T 1400 55 T 1600 55 T 1800 55 T 2000 55 T 2200 55 T 2400 55 L 2400 0 L -400 0 Z">
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 0" to="-400 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- front wave (faster, brighter) -->
+  <path fill="#ffffff" fill-opacity="0.22"
+        d="M-400 40 Q -300 18 -200 40 T 0 40 T 200 40 T 400 40 T 600 40 T 800 40 T 1000 40 T 1200 40 T 1400 40 T 1600 40 T 1800 40 T 2000 40 T 2200 40 T 2400 40 L 2400 0 L -400 0 Z">
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 0" to="-400 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+</svg>

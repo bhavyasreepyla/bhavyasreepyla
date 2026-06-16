@@ -1,0 +1,34 @@
+<svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" width="1200" height="200">
+  <!-- solid black block -->
+  <rect width="1200" height="200" fill="#000000"/>
+
+  <!-- back wave (slower, fainter) -->
+  <path fill="#ffffff" fill-opacity="0.12"
+        d="M-400 150 Q -300 128 -200 150 T 0 150 T 200 150 T 400 150 T 600 150 T 800 150 T 1000 150 T 1200 150 T 1400 150 T 1600 150 T 1800 150 T 2000 150 T 2200 150 T 2400 150 L 2400 200 L -400 200 Z">
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 0" to="-400 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- front wave (faster, brighter) -->
+  <path fill="#ffffff" fill-opacity="0.22"
+        d="M-400 168 Q -300 146 -200 168 T 0 168 T 200 168 T 400 168 T 600 168 T 800 168 T 1000 168 T 1200 168 T 1400 168 T 1600 168 T 1800 168 T 2000 168 T 2200 168 T 2400 168 L 2400 200 L -400 200 Z">
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 0" to="-400 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- twinkling dots -->
+  <circle cx="220" cy="55" r="2" fill="#ffffff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="45" r="2" fill="#ffffff">
+    <animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="40" r="1.6" fill="#ffffff">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- name -->
+  <text x="600" y="105" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52"
+        font-weight="700" fill="#ffffff">Bhavya Sree Pyla</text>
+</svg>
