@@ -1,10 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a1a,100:0d1117&height=200&section=header&text=Bhavya%20Sree%20Pyla&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Bhavya%20Sree%20Pyla&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bhavya;MS+in+AI+%40+Northeastern+University;Vision-Language+Models+%7C+Deep+Learning;Building+AI+That+Works+For+Humans" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&random=false&width=600&height=55&lines=Hi+%F0%9F%91%8B+I'm+Bhavya;MS+in+AI+%40+Northeastern+University;Vision-Language+Models+%7C+Deep+Learning;Building+AI+That+Works+For+Humans" alt="Typing SVG" />
   </a>
 </p>
+
+> *My therapist told me to stop personifying my neural networks. She's right. I'm sorry, model. I'll lower your learning rate next time, I promise.*
 
 ## 🧠 About Me
 🎓 **MS in Artificial Intelligence** @ Northeastern University (Khoury College)  
@@ -14,16 +16,31 @@
 - 🌱 Learning **advanced ML, algorithms, and programming paradigms**
 - 📫 Reach me at **pylabhavyasree1@gmail.com**
 
+## 💻 ~/whoami
+```bash
+bhavya@northeastern:~$ neofetch
+        .--.            OS:       Sleep-deprived Grad Student v3.0
+       |o_o |           Host:     Khoury College of CS
+       |:_/ |           Kernel:   PyTorch 2.x (cuda enabled, sometimes)
+      //   \ \          Uptime:   too many hours, send coffee
+     (|     | )         Packages: 1 environment, 47 broken
+    /'\_   _/`\         Shell:    zsh + aliases I forgot I made
+    \___)=(___/         CPU:      100% (training 3 models at once)
+                        GPU:      borrowed. always borrowed.
+                        Memory:   leaking, just like my code
+                        Status:   "it works on my machine" ¯\_(ツ)_/¯
+```
+
 ## 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,matlab,pytorch,tensorflow,opencv,sklearn,mysql,git,streamlit,scipy,keras,github,docker,linux,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,matlab,pytorch,tensorflow,opencv,sklearn,mysql,git,github,docker,linux,vscode&perline=7" />
   </a>
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavyasreepyla&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyasreepyla&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues,contribs&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyasreepyla&layout=compact&theme=github_dark&hide_border=true" height="170" />
 </p>
 <p align="center">
@@ -33,6 +50,11 @@
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavyasreepyla&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+## 🏙️ Contribution Skyline
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" />
 </p>
 
 ## 🤝 Connect With Me
@@ -46,20 +68,10 @@
   <a href="https://bhavya-portfolio-two.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/bhavyasreepyla">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
-
-## 👾 Pac-Man Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyasreepyla/bhavyasreepyla/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavyasreepyla/bhavyasreepyla/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhavyasreepyla/bhavyasreepyla/output/pacman-contribution-graph.svg" />
-</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhavyasreepyla&color=000000&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a1a,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
